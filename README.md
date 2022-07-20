@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and Machine Learning.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ML projects.
-
+- Have a nice day, yall!
 <!---
 
 - 📫 
